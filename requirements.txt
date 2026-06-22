@@ -1,0 +1,19 @@
+# Core runtime dependencies (no TensorFlow required)
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+
+# ---------------------------------------------------------------------------
+# Optional extras — uncomment blocks as needed
+# ---------------------------------------------------------------------------
+
+# Deep-learning model (Keras MLP):
+# tensorflow>=2.13
+
+# Visualisation:
+# matplotlib>=3.7
+# seaborn>=0.13
+
+# Development / testing:
+# pytest>=7.4
+# ruff>=0.4
